@@ -1,0 +1,36 @@
+body {
+    background:url(./b/10697048.jpg);
+    background-size: 100%;
+}
+
+form {
+    margin: 15% 500px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    padding: 25px 50px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    font-family: 'Oswald', sans-serif;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 200px;
+    opacity: 1;
+}
+
+.Entrar {
+    padding: 10px;
+    width: 200px;
+    background-color: green;
+    margin: 4px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    opacity: 1;
+}
